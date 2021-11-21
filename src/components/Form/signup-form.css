@@ -1,0 +1,31 @@
+.input-container {
+  text-align: left;
+}
+
+input {
+  margin-top: 0.5rem;
+}
+
+.error {
+  margin-bottom: 0.25rem;
+  color: red;
+  font-size:0.9rem;
+}
+
+.form {
+  display:flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+label {
+  text-align: left;
+}
+
+button {
+  width: 6rem;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
